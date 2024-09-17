@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: f21fe72fbb509bc4b821addab4358e5e
+  - enabled: 0
+    path: Assets/Scenes/IntroStory.unity
+    guid: 53a3949f7270c0142abefdb2b9ddd392
+  - enabled: 0
+    path: Assets/Scenes/test1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/test2.unity
+    guid: 14991c1ba6153c04a99faa41157272e8
+  - enabled: 0
+    path: Assets/Scenes/test3.unity
+    guid: d07f4209bbefbbd43b7e8587cc2f05a6
+  - enabled: 1
+    path: Assets/Scenes/Green_1.unity
+    guid: 58666c51575f4294ebf50fe5827da679
+  - enabled: 1
+    path: Assets/Scenes/Green_2.unity
+    guid: afe52e057f0943946a79631a234c83ed
+  - enabled: 1
+    path: Assets/Scenes/Green_3.unity
+    guid: ced5c143044b55b48b7badc24a509dd2
+  - enabled: 1
+    path: Assets/Scenes/Green_4.unity
+    guid: 0d73181bf70276e49b5af1c061b4e6c9
+  - enabled: 1
+    path: Assets/Scenes/Green_5.unity
+    guid: 6e4b962ae46187f4e8ed00ad440e4957
+  - enabled: 1
+    path: Assets/Scenes/Green_6.unity
+    guid: 2e0721f28290ba14dacbb140beacfa4c
+  - enabled: 1
+    path: Assets/Scenes/Green_7.unity
+    guid: 6e6b5249e0ed6be4b87c3cf6f047aacf
+  - enabled: 1
+    path: Assets/Scenes/Green_8.unity
+    guid: 1cfb5cc68b164f14dac8773bdb885ea6
+  - enabled: 1
+    path: Assets/Scenes/Cave_1.unity
+    guid: 47f0377f3ec40c24d9d6c90ab99a47e3
+  - enabled: 1
+    path: Assets/Scenes/Cave_2.unity
+    guid: fd6e0a0827bd2ca469b0e0f4a2d39542
+  - enabled: 1
+    path: Assets/Scenes/Cave_3.unity
+    guid: 4d27a3af3a96d3f448ea3c42157e0e0f
+  - enabled: 1
+    path: Assets/Scenes/Cave_4.unity
+    guid: b8795b6c152317e4983fcbf568b9cab3
+  - enabled: 1
+    path: Assets/Scenes/Cave_5.unity
+    guid: 6cfa32410c0bee1499cb1eb525aacc67
+  - enabled: 1
+    path: Assets/Scenes/Cave_6.unity
+    guid: ac872fa9544264949a9a330f71fba261
+  - enabled: 1
+    path: Assets/Scenes/Cave_7.unity
+    guid: f28c0690502f1004388b06c762fd8272
+  - enabled: 1
+    path: Assets/Scenes/Cave_8.unity
+    guid: 5e1fe84749b468d40a1f534bbd2a9336
+  - enabled: 1
+    path: Assets/Scenes/Castle_1.unity
+    guid: da39035576b7d464ea7c5ef5f9780739
+  - enabled: 1
+    path: Assets/Scenes/Castle_2.unity
+    guid: d799341caf14ba94cba36cce0dd0f4fb
+  - enabled: 1
+    path: Assets/Scenes/Castle_3.unity
+    guid: 89b6b32277164744aa81acae9a725c7e
+  - enabled: 1
+    path: Assets/Scenes/Castle_4.unity
+    guid: 46e325a6b6cc3d9419bf6c0a3dad2191
+  - enabled: 1
+    path: Assets/Scenes/Castle_5.unity
+    guid: 0e6b1bc5c7a9b3748b5b2950cd370c3c
+  - enabled: 1
+    path: Assets/Scenes/Castle_6.unity
+    guid: ed26f422ef240c3499638583a9d4f421
+  - enabled: 1
+    path: Assets/Scenes/Castle_7.unity
+    guid: 6e218a449c4ac1b45871869a4d27f101
+  - enabled: 1
+    path: Assets/Scenes/Castle_8.unity
+    guid: 4e0aa9864318efd4c95d269d767136f8
+  - enabled: 1
+    path: Assets/Scenes/Void_1.unity
+    guid: f7ef725eda28d32489ae760e81c34310
+  - enabled: 1
+    path: Assets/Scenes/Graveyard_1.unity
+    guid: 22bc07209b9773e4ea9afb27f7e53367
+  - enabled: 1
+    path: Assets/Scenes/Graveyard_2.unity
+    guid: 9c32738424291c74da495eee49de99e4
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 03f2a3645d488784faf97056e7cb4b4c
+  - enabled: 0
+    path: Assets/Scenes/delete.unity
+    guid: e7c8648e3ff238f44acbfc8c5dd50724
+  m_configObjects: {}
